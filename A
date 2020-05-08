@@ -1,1 +1,3 @@
 Archetypes: templates to create a variety of Java project structures. (E.g: JAR, WAR, JMS, Android)
+
+Artifact: a file, usually a JAR that gets depoyed to a Maven repository.
